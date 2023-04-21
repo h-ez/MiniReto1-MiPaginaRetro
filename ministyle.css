@@ -1,0 +1,85 @@
+/* CSS styles */
+#body {
+    background-color: rgb(47, 46, 44);
+    
+}
+
+#h2 {
+    font-size: 17px;
+    font-family: Impact, sans-serif;
+    color: #e90d0d;
+    display: none;
+}
+
+#h1 {
+    font-size: 30px;
+    font-family: Impact, sans-serif;
+    color: #CE5937;
+    display: none;
+}
+
+p {
+    color: #bcbcbc;
+}
+
+
+.KoreanBackDash{
+    font-size: 25px;
+}
+
+.card1 {
+    display: none;
+}
+
+.card2 {
+    display: none;
+}
+
+.card3 {
+    display: none;
+}
+
+#cd1 {
+    font-size: 15px;
+    font-family: Impact, sans-serif;
+    color: #e8e7e7;
+}
+
+
+
+#div1 {
+    display: none;
+}
+#div2 {
+    display: none;
+}
+#div3 {
+    display: none;
+}
+
+#demo {
+    font-size: 18px;
+    font-family: Impact, sans-serif;
+    color: #f4f4f4;
+    display: none;
+}
+
+#demo2 {
+    font-size: 15px;
+    font-family: Impact, sans-serif;
+    color: #c0a79f;
+    display: none;
+}
+
+#b1 {
+    display: none;
+    --bs-btn-font-weight: 600;
+}
+#b2 {
+    display: none;
+    --bs-btn-font-weight: 600;
+}
+#b3 {
+    display: none;
+    --bs-btn-font-weight: 600;
+}
